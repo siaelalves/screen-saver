@@ -1,0 +1,17 @@
+D:\Projetos\VB\Concluídos\SCR\obj\Debug\Interop.WMPLib.dll
+D:\Projetos\VB\Concluídos\SCR\obj\Debug\AxInterop.WMPLib.dll
+D:\Projetos\VB\Concluídos\SCR\obj\Debug\SCR.vbproj.ResolveComReference.cache
+D:\Projetos\VB\Concluídos\SCR\obj\Debug\Slide Show.exe
+D:\Projetos\VB\Concluídos\SCR\obj\Debug\Slide Show.xml
+D:\Projetos\VB\Concluídos\SCR\obj\Debug\Slide Show.pdb
+D:\Projetos\VB\Concluídos\SCR\bin\Release\Slide Show.exe
+D:\Projetos\VB\Concluídos\SCR\bin\Release\Slide Show.pdb
+D:\Projetos\VB\Concluídos\SCR\bin\Release\Slide Show.xml
+D:\Projetos\VB\Concluídos\SCR\bin\Release\sec.dll
+D:\Projetos\VB\Concluídos\SCR\bin\Release\sec.pdb
+D:\Projetos\VB\Concluídos\SCR\bin\Release\Interop.WMPLib.dll
+D:\Projetos\VB\Concluídos\SCR\bin\Release\AxInterop.WMPLib.dll
+D:\Projetos\VB\Concluídos\SCR\obj\Debug\screenShow.SRV.resources
+D:\Projetos\VB\Concluídos\SCR\obj\Debug\screenShow.Resources.resources
+D:\Projetos\VB\Concluídos\SCR\obj\Debug\SCR.vbprojResolveAssemblyReference.cache
+D:\Projetos\VB\Concluídos\SCR\obj\Debug\SCR.vbproj.GenerateResource.Cache

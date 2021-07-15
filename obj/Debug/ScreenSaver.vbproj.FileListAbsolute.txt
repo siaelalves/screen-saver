@@ -1,0 +1,51 @@
+C:\Users\user\AppData\Local\Temporary Projects\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\user\AppData\Local\Temporary Projects\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ScreenSaver\bin\Debug\ScreenSaver.xml
+C:\Users\user\AppData\Local\Temporary Projects\ScreenSaver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\ScreenSaver\obj\Debug\ScreenSaver.SRV.resources
+C:\Users\user\AppData\Local\Temporary Projects\ScreenSaver\obj\Debug\ScreenSaver.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\ScreenSaver\obj\Debug\ScreenSaver.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\user\AppData\Local\Temporary Projects\ScreenSaver\obj\Debug\ScreenSaver.xml
+C:\Users\user\AppData\Local\Temporary Projects\ScreenSaver\obj\Debug\ScreenSaver.pdb
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\ResolveAssemblyReference.cache
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\ScreenSaver.vbproj.GenerateResource.Cache
+D:\E\Project\Visual Basic\Templates\ScreenSaver\bin\Debug\Slide Show.exe
+D:\E\Project\Visual Basic\Templates\ScreenSaver\bin\Debug\Slide Show.pdb
+D:\E\Project\Visual Basic\Templates\ScreenSaver\bin\Debug\Slide Show.xml
+D:\E\Project\Visual Basic\Templates\ScreenSaver\bin\Debug\Interop.WMPLib.dll
+D:\E\Project\Visual Basic\Templates\ScreenSaver\bin\Debug\AxInterop.WMPLib.dll
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\Interop.WMPLib.dll
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\AxInterop.WMPLib.dll
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\ScreenSaver.vbproj.ResolveComReference.cache
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\screenShow.config.resources
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\screenShow.SRV.resources
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\screenShow.Resources.resources
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\Slide Show.exe
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\Slide Show.xml
+D:\E\Project\Visual Basic\Templates\ScreenSaver\obj\Debug\Slide Show.pdb
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\Interop.WMPLib.dll
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\AxInterop.WMPLib.dll
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\ScreenSaver.vbproj.ResolveComReference.cache
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\Slide Show.exe
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\Slide Show.xml
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\Slide Show.pdb
+D:\Projetos\VB\Templates\ScreenSaver\bin\Debug\Slide Show.exe
+D:\Projetos\VB\Templates\ScreenSaver\bin\Debug\Slide Show.pdb
+D:\Projetos\VB\Templates\ScreenSaver\bin\Debug\Slide Show.xml
+D:\Projetos\VB\Templates\ScreenSaver\bin\Debug\Interop.WMPLib.dll
+D:\Projetos\VB\Templates\ScreenSaver\bin\Debug\AxInterop.WMPLib.dll
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\screenShow.SRV.resources
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\screenShow.Resources.resources
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\GenerateResource.read.1.tlog
+D:\Projetos\VB\Templates\ScreenSaver\obj\Debug\GenerateResource.write.1.tlog
+D:\Projetos\VB\Templates\ScreenSaver\bin\Debug\sec.dll
+D:\Projetos\VB\Templates\ScreenSaver\bin\Debug\sec.pdb
+D:\Projetos\VB\Templates\ScreenSaver\bin\Release\Slide Show.exe
+D:\Projetos\VB\Templates\ScreenSaver\bin\Release\Slide Show.pdb
+D:\Projetos\VB\Templates\ScreenSaver\bin\Release\Slide Show.xml
+D:\Projetos\VB\Templates\ScreenSaver\bin\Release\sec.dll
+D:\Projetos\VB\Templates\ScreenSaver\bin\Release\sec.pdb
+D:\Projetos\VB\Templates\ScreenSaver\bin\Release\Interop.WMPLib.dll
+D:\Projetos\VB\Templates\ScreenSaver\bin\Release\AxInterop.WMPLib.dll
